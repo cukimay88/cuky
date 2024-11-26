@@ -17,7 +17,7 @@
     <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
     <link rel="shortcut icon" href="https://s7.gifyu.com/images/SGIV4.png" />
     <link rel="canonical" href="https://www.betung.rajabasa.id/" />
-    <link rel="amphtml" href="https://pub-618d698161994d9e8bf98cb6424faa14.r2.dev/home.html" />
+    <link rel="amphtml" href="https://pub-e4cde9de7bd945fe929c9df8a240a182.r2.dev/home.html" />
     <!-- start preload -->
     <link rel="preload" href="https://s7.gifyu.com/images/SGQ1V.jpg" as="image" />
     <link rel="preconnect dns-prefetch" href="//cart.lazada.co.id" />
